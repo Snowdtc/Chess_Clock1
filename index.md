@@ -19,13 +19,9 @@ You should comment out all portions of your portfolio that you have not complete
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wO3R-TBcILA?si=5Ybzv92w3VzoDyQ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+My project is a dual timer system designed to function as a chess clock using an Arduino Uno. The system includes two 4-digit 7-segment displays for showing the countdown for each player, a rotary encoder for setting the timers, two push buttons for controlling the timers, and a buzzer to signal when a timer runs out. The two 4-digit 7-segment displays will show the remaining time for each player, controlled using the TM1637Display library. The rotary encoder will be used to set the timer values, allowing the user to adjust minutes and seconds. Two push buttons will be used to start and stop the timers for each player. A buzzer will sound when a player's time runs out, providing an audible alert. While building this the challenges that occured to me were understanding on how the code works as well as building functions. I had problems with setting up my buttons and wires at the right parts in my breadboard but I overcame all these challenges by debugging and finding the right locations. 
 
 
 
