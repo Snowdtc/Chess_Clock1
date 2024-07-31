@@ -1,5 +1,5 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+Chess Clock
+Chess Clock is a custom-built timer designed to enhance your chess-playing experience by providing precise and user-friendly time management. The clock allows players to easily set, start, and switch between timers for each player, ensuring a fair and competitive game. One of the main challenges was implementing the timing logic and ensuring seamless transitions between the players' timers. The biggest takeaway from this project was learning how to integrate various hardware components, such as 4-digit displays, buttons, and a rotary encoder, to create a functional and intuitive device. The triumph came when the final product worked flawlessly, making chess games more enjoyable and professional.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
