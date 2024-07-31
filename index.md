@@ -1,4 +1,5 @@
 Chess Clock
+
 Chess Clock is a custom-built timer designed to enhance your chess-playing experience by providing precise and user-friendly time management. The clock allows players to easily set, start, and switch between timers for each player, ensuring a fair and competitive game. One of the main challenges was implementing the timing logic and ensuring seamless transitions between the players' timers. The biggest takeaway from this project was learning how to integrate various hardware components, such as 4-digit displays, buttons, and a rotary encoder, to create a functional and intuitive device. The triumph came when the final product worked flawlessly, making chess games more enjoyable and professional.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
