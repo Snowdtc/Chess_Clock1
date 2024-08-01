@@ -32,12 +32,7 @@ My project is a dual timer system designed to function as a chess clock using an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+Since the first milestone, I've integrated the rotary encoder for precise timer adjustments and configured dual 4-digit displays to show countdowns for two players. The `setNum` function now accurately updates timer values based on encoder input, while `displayBlink` enhances user interaction during timer setup.Challenges overcome involved fine-tuning timer accuracy and debugging display output issues. Next, I need to add other visual elements such as led lights for whoever's turn it is when the timer is going off.
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
