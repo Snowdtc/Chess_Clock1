@@ -30,7 +30,7 @@ My project is a dual timer system designed to function as a chess clock using an
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://youtu.be/MwwKPFRAE7w?si=PXNKkf8h_rVw82Oz)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MwwKPFRAE7w?si=GW7Uv67nV-3V-pZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Since the first milestone, I've integrated the rotary encoder for precise timer adjustments and configured dual 4-digit displays to show countdowns for two players. The `setNum` function now accurately updates timer values based on encoder input, while `displayBlink` enhances user interaction during timer setup.Challenges overcome involved fine-tuning timer accuracy and debugging display output issues. Next, I need to add other visual elements such as led lights for whoever's turn it is when the timer is going off.
 # Final Milestone
