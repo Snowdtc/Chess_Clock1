@@ -34,7 +34,8 @@ In this project, I successfully integrated multiple hardware components and soft
 
 
 # Schematics 
-https://projects.arduinocontent.cc/cover-images/c0155664-789e-420b-8037-aa816d965c63.blob
+![image](https://github.com/user-attachments/assets/b77373ae-9d75-4a92-9b0a-6e04bf691394)
+
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
