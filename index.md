@@ -6,9 +6,8 @@ Chess Clock is a custom-built timer designed to enhance your chess-playing exper
 |:--:|:--:|:--:|:--:|
 | Himank Y | Inglemoor High School | Computer Science | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+![WIN_20240809_08_29_10_Pro](https://github.com/user-attachments/assets/f24077c7-13ae-4c06-8802-93bbfcb568b0)
 
-![Headstone Image](logo.svg)
   
 # First Milestone
 
