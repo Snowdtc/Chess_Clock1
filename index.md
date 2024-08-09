@@ -37,7 +37,6 @@ In this project, I successfully integrated multiple hardware components and soft
 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c
 #include <TM1637Display.h>
@@ -334,8 +333,6 @@ void playSound() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs.1 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
@@ -351,4 +348,3 @@ Here were the tutorials that were used!
 - [Tutorial 1]([https://projecthub.arduino.cc/herolivechannel/chess-alarm-clock-using-arduino-rotary-encoder-7-segment-1511f2])
 
 
-To watch the BSE tutorial on how to create a portfolio, click here.
