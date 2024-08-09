@@ -76,9 +76,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Rotary Encoder` | What the item is used for | $8.99 | <a href="https://www.amazon.com/SongHe-KY-040-Encoder-Development-Arduino/dp/B087ZQLLWQ/ref=sr_1_1_sspa?crid=31JIP47IPMIK8&dib=eyJ2IjoiMSJ9.561HXmjsvo5F8O9BqiyjaSi-8obSRX9raeAnvJo4oFw5OnkbeV1QRHHfVEvZIIJLpVAHEld3c3HBMBSr11X2zkFY26Q7hLI6ypqkbnw62s_tKxp_6V7hLdomEZTkGvssu6FbdS07oVElHEGBm6cr64bpEDsxVK--rsN238OB8Ze3hJgJ6H7n0Ghirxb4ApragEHxYvKmC3vD7RNFPLPw6rMIPYUELi-Mr8N375lKCQ6N3LwbhQWs1wxW_Z3ZDZq2F_8-O71LqIw9qhxzVTC-yNQ4zZdoWF9itE-o3bjbb1k.hZzW7hz1jPqwJJMdFx4wTPmlBjlYlx5wvw79WBSj7qU&dib_tag=se&keywords=rotary+encoder&qid=1720652395&s=industrial&sprefix=rotary+encoder%2Cindustrial%2C84&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+Here were the tutorials that were used!
+- [Tutorial 1]([https://projecthub.arduino.cc/herolivechannel/chess-alarm-clock-using-arduino-rotary-encoder-7-segment-1511f2])
+
 
 To watch the BSE tutorial on how to create a portfolio, click here.
