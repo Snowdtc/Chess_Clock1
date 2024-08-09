@@ -2,15 +2,9 @@ Chess Clock
 
 Chess Clock is a custom-built timer designed to enhance your chess-playing experience by providing precise and user-friendly time management. The clock allows players to easily set, start, and switch between timers for each player, ensuring a fair and competitive game. One of the main challenges was implementing the timing logic and ensuring seamless transitions between the players' timers. The biggest takeaway from this project was learning how to integrate various hardware components, such as 4-digit displays, buttons, and a rotary encoder, to create a functional and intuitive device. The triumph came when the final product worked flawlessly, making chess games more enjoyable and professional.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
-
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+| Himank Y | Inglemoor High School | Computer Science | Incoming Junior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
@@ -18,7 +12,6 @@ You should comment out all portions of your portfolio that you have not complete
   
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wO3R-TBcILA?si=5Ybzv92w3VzoDyQ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -28,14 +21,12 @@ My project is a dual timer system designed to function as a chess clock using an
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwwKPFRAE7w?si=GW7Uv67nV-3V-pZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Since the first milestone, I've integrated the rotary encoder for precise timer adjustments and configured dual 4-digit displays to show countdowns for two players. The `setNum` function now accurately updates timer values based on encoder input, while `displayBlink` enhances user interaction during timer setup.Challenges overcome involved fine-tuning timer accuracy and debugging display output issues. Next, I need to add other visual elements such as led lights for whoever's turn it is when the timer is going off.
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3euiwd_tP4U?si=xuXW1swdLQO4Fplp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -348,10 +339,12 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Elegoo Starter Kit | What the item is used for | $44.99 | <a href="https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3_pp?crid=2CDRMQVSYOD4H&dib=eyJ2IjoiMSJ9.AcWZy-Yg4mDTnhzEHozxzPZdVC5-KUL2tW-OQewDKpA7ZhEVnlvYJFELmn1cEN5uvrZVxp4St_nlIhbtJibvxUj7s5mZJHZ5gTUoGHyjSCEJnV1m-a2PWxrXyWYqZrufz70WGPo3NV3-f7iFEXccDbUvJu8BRvjxPCjgkJ_uJnDxpPk3Gjw_yw7XMWWb8ll4GsOLKWrxeEr1uOS5BeD0EU2Y1MvZXAOcITMnykL7K69Fr4P6SnWB2EpkaJ37raPdYGD096Z_rSPyEsRfxIx6Rv9N65w4nRID980vI94aLYQ.PuIIln1now7ULLLgzCb0zPl5SBpDXd-IT05ToFwhflM&dib_tag=se&keywords=arduino+starter+kit&qid=1720652047&s=industrial&sprefix=arduino+starter+ki%2Cindustrial%2C72&sr=1-3/"> Link </a> |
-| 9V Batteries| What the item is used for | $12.36 | <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=sr_1_5_pp?crid=3TQ7ANPH958JM&dib=eyJ2IjoiMSJ9.bmcV2Upj_vpB6G9CFlPPxYAryat512da7ekZjc52HecXSTmtx7PbJ50EgQFPCMqlAxjOUq-tL4vQTpozlHvH89bMwx-HJoyGcdz6EY8HrMxahTiqOXkoP7ewkDcgHoMhmHamdlQfW6FBHO0Gm-DYZZnnMuvEU3qOpemA8PGEvRhEx4-lGaBZhrvls039G1-9SizAW-YRGXZ2fFrdVDlREyyOhAuxXZaE5QqUxWesRQgP9UfGOYaInRWTTPwhDbXFa-RPzGbU1C_u4wq-NMqKBtWEQqR9-cA8O3FYOx3icEY.dtKJmI2T-iCmMM_bYnbiHUWzhKpJDRxS-bBmZIwYFKM&dib_tag=se&keywords=9v+batteries&qid=1720651326&rdc=1&s=electronics&sprefix=9v+batteries%2Celectronics%2C105&sr=1-5"> Link </a> |
-| 7 Segment Display | What the item is used for | $7.99 | <a href="https://www.amazon.com/WWZMDiB-Module%EF%BC%8CLED-Brightness-Adjustable-Accessories/dp/B0BFQNFX6D/ref=sr_1_1_sspa?crid=4FDIRL8C4Z3U&dib=eyJ2IjoiMSJ9.QgE2LsaDM6XMNWEKtfowv6-PbOSX2xhfnjc8ga6aSoZXfs-idNkA9Ry6gW5xXwdB3MQphqLpgoIsDnzgtIYvLkoepUfuY2uLPqicJqKDkKnboM0jQQrhz9AZOv5zmOdrUFJHY1qCBLICzeGzJsft3HwTDgR4Ii-2yY662dfn_flQ9naG88nPMjZhyYt8CB8IOtxmvV9G52EVmHU0NpiE8bhfPcV3h2EQ6aMis0izEmY.iv725XikNlgecuj747NmLUhRIykpvN1TY3xTLJ2YXbk&dib_tag=se&keywords=7+segment+display+4+digit&qid=1720652429&sprefix=7+segment+display%2Caps%2C94&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
-| Rotary Encoder` | What the item is used for | $8.99 | <a href="https://www.amazon.com/SongHe-KY-040-Encoder-Development-Arduino/dp/B087ZQLLWQ/ref=sr_1_1_sspa?crid=31JIP47IPMIK8&dib=eyJ2IjoiMSJ9.561HXmjsvo5F8O9BqiyjaSi-8obSRX9raeAnvJo4oFw5OnkbeV1QRHHfVEvZIIJLpVAHEld3c3HBMBSr11X2zkFY26Q7hLI6ypqkbnw62s_tKxp_6V7hLdomEZTkGvssu6FbdS07oVElHEGBm6cr64bpEDsxVK--rsN238OB8Ze3hJgJ6H7n0Ghirxb4ApragEHxYvKmC3vD7RNFPLPw6rMIPYUELi-Mr8N375lKCQ6N3LwbhQWs1wxW_Z3ZDZq2F_8-O71LqIw9qhxzVTC-yNQ4zZdoWF9itE-o3bjbb1k.hZzW7hz1jPqwJJMdFx4wTPmlBjlYlx5wvw79WBSj7qU&dib_tag=se&keywords=rotary+encoder&qid=1720652395&s=industrial&sprefix=rotary+encoder%2Cindustrial%2C84&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Elegoo Starter Kit | The starter kid is needed as its the motherboard to function the whole clock | $44.99 | <a href="https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3_pp?crid=2CDRMQVSYOD4H&dib=eyJ2IjoiMSJ9.AcWZy-Yg4mDTnhzEHozxzPZdVC5-KUL2tW-OQewDKpA7ZhEVnlvYJFELmn1cEN5uvrZVxp4St_nlIhbtJibvxUj7s5mZJHZ5gTUoGHyjSCEJnV1m-a2PWxrXyWYqZrufz70WGPo3NV3-f7iFEXccDbUvJu8BRvjxPCjgkJ_uJnDxpPk3Gjw_yw7XMWWb8ll4GsOLKWrxeEr1uOS5BeD0EU2Y1MvZXAOcITMnykL7K69Fr4P6SnWB2EpkaJ37raPdYGD096Z_rSPyEsRfxIx6Rv9N65w4nRID980vI94aLYQ.PuIIln1now7ULLLgzCb0zPl5SBpDXd-IT05ToFwhflM&dib_tag=se&keywords=arduino+starter+kit&qid=1720652047&s=industrial&sprefix=arduino+starter+ki%2Cindustrial%2C72&sr=1-3/"> Link </a> |
+| 9V Batteries| This is used to power the clock to function it | $12.36 | <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=sr_1_5_pp?crid=3TQ7ANPH958JM&dib=eyJ2IjoiMSJ9.bmcV2Upj_vpB6G9CFlPPxYAryat512da7ekZjc52HecXSTmtx7PbJ50EgQFPCMqlAxjOUq-tL4vQTpozlHvH89bMwx-HJoyGcdz6EY8HrMxahTiqOXkoP7ewkDcgHoMhmHamdlQfW6FBHO0Gm-DYZZnnMuvEU3qOpemA8PGEvRhEx4-lGaBZhrvls039G1-9SizAW-YRGXZ2fFrdVDlREyyOhAuxXZaE5QqUxWesRQgP9UfGOYaInRWTTPwhDbXFa-RPzGbU1C_u4wq-NMqKBtWEQqR9-cA8O3FYOx3icEY.dtKJmI2T-iCmMM_bYnbiHUWzhKpJDRxS-bBmZIwYFKM&dib_tag=se&keywords=9v+batteries&qid=1720651326&rdc=1&s=electronics&sprefix=9v+batteries%2Celectronics%2C105&sr=1-5"> Link </a> |
+| 7 Segment Display | This item is used to display the time | $7.99 | <a href="https://www.amazon.com/WWZMDiB-Module%EF%BC%8CLED-Brightness-Adjustable-Accessories/dp/B0BFQNFX6D/ref=sr_1_1_sspa?crid=4FDIRL8C4Z3U&dib=eyJ2IjoiMSJ9.QgE2LsaDM6XMNWEKtfowv6-PbOSX2xhfnjc8ga6aSoZXfs-idNkA9Ry6gW5xXwdB3MQphqLpgoIsDnzgtIYvLkoepUfuY2uLPqicJqKDkKnboM0jQQrhz9AZOv5zmOdrUFJHY1qCBLICzeGzJsft3HwTDgR4Ii-2yY662dfn_flQ9naG88nPMjZhyYt8CB8IOtxmvV9G52EVmHU0NpiE8bhfPcV3h2EQ6aMis0izEmY.iv725XikNlgecuj747NmLUhRIykpvN1TY3xTLJ2YXbk&dib_tag=se&keywords=7+segment+display+4+digit&qid=1720652429&sprefix=7+segment+display%2Caps%2C94&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Rotary Encoder` | This allows to easily set, start, and switch between timers for each player| $8.99 | <a href="https://www.amazon.com/SongHe-KY-040-Encoder-Development-Arduino/dp/B087ZQLLWQ/ref=sr_1_1_sspa?crid=31JIP47IPMIK8&dib=eyJ2IjoiMSJ9.561HXmjsvo5F8O9BqiyjaSi-8obSRX9raeAnvJo4oFw5OnkbeV1QRHHfVEvZIIJLpVAHEld3c3HBMBSr11X2zkFY26Q7hLI6ypqkbnw62s_tKxp_6V7hLdomEZTkGvssu6FbdS07oVElHEGBm6cr64bpEDsxVK--rsN238OB8Ze3hJgJ6H7n0Ghirxb4ApragEHxYvKmC3vD7RNFPLPw6rMIPYUELi-Mr8N375lKCQ6N3LwbhQWs1wxW_Z3ZDZq2F_8-O71LqIw9qhxzVTC-yNQ4zZdoWF9itE-o3bjbb1k.hZzW7hz1jPqwJJMdFx4wTPmlBjlYlx5wvw79WBSj7qU&dib_tag=se&keywords=rotary+encoder&qid=1720652395&s=industrial&sprefix=rotary+encoder%2Cindustrial%2C84&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Fielect 2Pcs 0.5W 8 Ohm DIY Magnetic Speaker Arduino Round Internal Magnet Speaker Loudspeaker Replacement | This item is used for sound whenever the player clicks on a button a sound plays off| $6.99 | <a href="https://www.amazon.com/Fielect-Magnet-Speaker-Internal-Diameter/dp/B0826YLV6C/ref=sr_1_1?crid=1S95IIG65GFFJ&dib=eyJ2IjoiMSJ9.7rVScTfTCbTp4d5573lwZ0PxeRLW61PQzlHBdpSWsVNiHE-9osFsZUmXRI4nItGthZ3RfzLZv7PPY5_Mv7mJPw9Wh0Bh4AraGMapXRenytos8jJZ2w1smRv3m1V-p7jugi0w9c3dr1suay99OpbtnIA8398UEU6v27Vb3_U_XvYsQSTnyaMCq5_ikhQfKUee8fa9_7vlSrLF4c38yuY0BXZXildrWjLWIw-DQtzx6BI.C7V45MVq5rdnFFxV8aYkjhdEPCOpiZrJ5LYplLPCbwg&dib_tag=se&keywords=fielect+2pcs+0.5w+8+ohm+diy+magnetic+speaker&qid=1722014226&sprefix=fielect+2pcs+0.5w+8+ohm+dit+magnetic+speaker%2Caps%2C55&sr=8-1"> Link </a> |
+
 
 # Other Resources/Examples
 Here were the tutorials that were used!
