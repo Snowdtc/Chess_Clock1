@@ -37,13 +37,10 @@ Since the first milestone, I've integrated the rotary encoder for precise timer 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3euiwd_tP4U?si=xuXW1swdLQO4Fplp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+In this project, I successfully integrated multiple hardware components and software functions to create a fully functional dual-timer system. The timers are controlled individually by buttons, each capable of incrementing its corresponding timer. This system was designed to enhance user interaction through a clear display and intuitive controls. One of the primary challenges was synchronizing the displays and ensuring responsive interactions with the buttons. Overcoming these challenges was crucial for my understanding of both hardware and Arduino programming, which deepened my skills in microcontroller environments and real-time system responses. This not only improved my technical capabilities but also enhanced my problem-solving skills, setting a strong foundation for future projects in embedded systems design.
+
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
